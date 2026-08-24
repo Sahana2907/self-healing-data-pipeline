@@ -1,0 +1,11 @@
+{
+  "timestamp": "20260824_222122",
+  "failure_reason": "Missing required columns: ['purchase_date']",
+  "raw_data": [
+    {
+      "transaction_id": "E101",
+      "customer_email": "Engineering",
+      "purchase_amount": 120000
+    }
+  ]
+}
