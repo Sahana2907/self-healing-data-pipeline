@@ -5,6 +5,9 @@
 [![Storage](https://img.shields.io/badge/Cache-SQLite-lightgrey.svg)](https://www.sqlite.org/)
 [![UI](https://img.shields.io/badge/Dashboard-Streamlit-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](LICENSE)
+<p align="center">
+  <img src="assets/demo.gif" alt="Pipeline Demo" width="800"/>
+</p>
 
 An enterprise-grade, privacy-first **Self-Healing Data Ingestion Engine** designed to solve upstream schema drift without pipeline halts. Powered by local Small Language Models (SLMs) via Ollama, an ultra-low-latency SQLite mapping cache ($<1\text{ms}$ resolution), and an isolated Dead-Letter Queue (DLQ) for unrecoverable structural anomalies.
 
